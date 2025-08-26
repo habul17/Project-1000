@@ -1,4 +1,3 @@
-You're right—sorry for the back-and-forth. Here’s **everything in one clean Markdown file** you can paste directly into `README.md`:
 
 ````md
 # Project-1000
