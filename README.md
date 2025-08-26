@@ -45,8 +45,6 @@ All progress is stored in Firebase, so your streaks are preserved even if you re
 
 ![Project Screenshot](./screenshot.png)
 
-*(Replace `screenshot.png` with the actual file path in your repo.)*
-
 ---
 
 ## Tech Stack
